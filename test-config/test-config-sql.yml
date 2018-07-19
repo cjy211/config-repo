@@ -1,0 +1,12 @@
+name: liudapeng
+tag: 2
+value: 123
+text: text
+spring:
+  datasource: 
+    url: jdbc:mysql://172.0.0.208:3300/111?useUnicode=true&characterEncoding=UTF-8&useSSL=false&useTimezone=true&serverTimezone=Asia/Shanghai&allowMultiQueries=true&autoReconnect=true
+    username: root
+    password: '{cipher}c3b52abe02a1544115a5c711ca07729b6339fa797b620371334a38d5d3c650c7'
+    driver-class-name: com.mysql.jdbc.Driver
+ 
+
