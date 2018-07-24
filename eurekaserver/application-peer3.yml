@@ -1,3 +1,5 @@
+server: 
+  port: 8003
 eureka: 
   instance: 
     ip-address: 172.16.225.47
