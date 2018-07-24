@@ -1,0 +1,9 @@
+eureka: 
+  instance: 
+    ip-address: 172.16.225.47
+  client: 
+    registerWithEureka: false
+    fetchRegistry: false
+    enableSelfPreservation: false
+  serviceUrl:
+    defaultZone: http://localhost:${server.port}/eureka/
